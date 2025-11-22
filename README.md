@@ -1,5 +1,4 @@
 # Doge05.github.io
-Personal Website 
 <h1 align="center">Hello, I'm Jacob Allen</h1>
 <h3 align="center">Currently a Junior Studying Computer Science at UMass Amherst</h3>
 
