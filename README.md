@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Jacob Allen</h1>
 <h3 align="center">Currently a Junior Studying Computer Science at UMass Amherst</h3>
-<p align="center">Passionate About Cybersecurity, Machine Learning, Networks</p>
+<p align="center">Passionate About Cybersecurity, Machine Learning, Networks, & Software Development</p>
 <p align="center">Always Looking for new Opportunities to Learn and Expand my Horizons</p>
 
 <h1 allign="center"></h1>
