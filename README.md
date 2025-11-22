@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jacob Allen</h1>
 <h3 align="center">I'm Currently a Junior Studying Computer Science at UMass Amherst</h3>
-<h3 align="center">Very Passionate About Cybersecurity, Machine Learning, Networks</h3>
-<h3 align="center">Always Looking for new Opportunities to Learn and Expand my Horizons</h3>
+<p align="center">Very Passionate About Cybersecurity, Machine Learning, Networks</p>
+<p align="center">Always Looking for new Opportunities to Learn and Expand my Horizons</p>
 
 
 - 🌱 I’m currently learning **Operating Systems(C++), Programming Methodologies(TypeScript/JavaScript), Artificial Intelligence, Algorithms**
