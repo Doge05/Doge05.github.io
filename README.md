@@ -7,7 +7,7 @@
 
 
 <p align="center">
-🌱 <strong>I'm currently learning Operating Systems(C++), Programming Methodologies (TypeScript/JavaScript), Artificial Intelligence, and Algorithms</strong>
+🌱 <strong>I'm currently learning Operating Systems (C++), Programming Methodologies (TypeScript/JavaScript), Artificial Intelligence, and Algorithms</strong>
 </p>
 
 <p align="center">
