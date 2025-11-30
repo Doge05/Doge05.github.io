@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Jacob Allen</h1>
-<h3 align="center">Currently a Junior Studying Computer Science at UMass Amherst</h3>
-<p align="center">Passionate About Cybersecurity, Machine Learning, Networks, & Software Development</p>
-<p align="center">Always Looking for new Opportunities to Learn and Expand my Horizons</p>
+<h3 align="center">Currently a Junior studying Computer Science at UMass Amherst</h3>
+<p align="center">Passionate about Cybersecurity, Machine Learning, Networks, & Software Development</p>
+<p align="center">Always looking for new opportunities to learn and expand my horizons</p>
 
 <h1 allign="center"></h1>
 
 
 <p align="center">
-🌱 I'm currently learning <strong>Operating Systems(C++), Programming Methodologies(TypeScript/JavaScript), Artificial Intelligence, Algorithms</strong>
+🌱 I'm currently learning Operating Systems(C++), Programming Methodologies (TypeScript/JavaScript), Artificial Intelligence, and Algorithms</strong>
 </p>
 
 <p align="center">
@@ -47,6 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 10px;"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="jira" width="50" height="50" style="margin: 10px;"/>
 </div>
 
 <div align="center">
@@ -55,4 +56,5 @@
   <span style="display: inline-block; width: 70px; text-align: center;"><sub>Docker</sub></span>
   <span style="display: inline-block; width: 70px; text-align: center;"><sub>Git</sub></span>
   <span style="display: inline-block; width: 70px; text-align: center;"><sub>Jest</sub></span>
+  <span style="display: inline-block; width: 70px; text-align: center;"><sub>Jira</sub></span>
 </div>
