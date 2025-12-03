@@ -16,6 +16,8 @@
 📫 How to reach me <strong>jakeallen05@gmail.com</strong>
 </p>
 
+<h2 align="center"></h2>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jacob-a-allen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob-a-allen" height="30" width="40" /></a>
@@ -64,7 +66,7 @@
 </div>
 
 <h2 align="center"></h2>
-<h3 align="center">Featured Projects</h3>
+<h3 align="center">Featured Projects:</h3>
 
 <div align="center" style="width: 80%; margin: auto;">
 
