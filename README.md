@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  * {
+    font-family: 'Comfortaa', sans-serif !important;
+  }
+</style>
+
 <h1 align="center">Hello, I'm Jacob Allen</h1>
 <h3 align="center">Currently a Junior studying Computer Science at UMass Amherst</h3>
 <p align="center">Passionate about Cybersecurity, Machine Learning, Networks, & Software Development</p>
