@@ -13,7 +13,7 @@
 <h2 align="center"></h2>
 
 <p align="center">
-📫 How to reach me <strong>jakeallen05@gmail.com</strong>
+📫 How to reach me: <strong>jakeallen05@gmail.com</strong>
 </p>
 
 <h2 align="center"></h2>
