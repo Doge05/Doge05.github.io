@@ -58,3 +58,40 @@
   <span style="display: inline-block; width: 70px; text-align: center;"><sub>Jest</sub></span>
   <span style="display: inline-block; width: 70px; text-align: center;"><sub>Jira</sub></span>
 </div>
+
+<h2 align="center"></h2>
+<h3 align="center">Featured Projects</h3>
+
+<div align="center" style="width: 80%; margin: auto;">
+
+  <div style="margin-bottom: 30px;">
+    <a href="https://github.com/Doge05/Simple-UNIX-Like-File-System" target="_blank" style="font-size: 22px; font-weight: bold; color: #0366d6; text-decoration: none;">
+      Simple UNIX-Like File System
+    </a>
+    <p style="color: #555; max-width: 600px; margin: 5px auto 0 auto;">
+      Implements a small Unix-like file system inside a 128KB virtual disk with file creation, deletion, reading, writing, 
+      directory listing, inodes, and block allocation.
+    </p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <a href="https://github.com/Doge05/Asynchronous-Web-API-Integration-Project" target="_blank" style="font-size: 22px; font-weight: bold; color: #0366d6; text-decoration: none;">
+      Asynchronous Web API Integration Project
+    </a>
+    <p style="color: #555; max-width: 600px; margin: 5px auto 0 auto;">
+      Asynchronous application fetching and processing data from geolocation, weather, and university APIs using fetch, 
+      promises, modular design, and strong error handling.
+    </p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <a href="https://github.com/Doge05/Reinforcement-Learning" target="_blank" style="font-size: 22px; font-weight: bold; color: #0366d6; text-decoration: none;">
+      Reinforcement Learning
+    </a>
+    <p style="color: #555; max-width: 600px; margin: 5px auto 0 auto;">
+      Implemented value-iteration and Q-learning agents tested on Gridworld MDPs, then applied to a simulated robot 
+      controller and Pacman environments.
+    </p>
+  </div>
+
+</div>
